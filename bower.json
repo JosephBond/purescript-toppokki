@@ -15,7 +15,6 @@
     "purescript-prelude": "^6.0.0",
     "purescript-record": "^4.0.0",
     "purescript-functions": "^6.0.0",
-    "purescript-node-http": "^8.0.0",
     "purescript-aff-promise": "^4.0.0",
     "purescript-node-buffer": "^8.0.0",
     "purescript-node-fs-aff": "^9.0.0"
